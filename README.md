@@ -1,4 +1,4 @@
-# Sceond First repo
+# Sceond  repo
 Language | File
 ------------ | -------------
 Java | File.java
